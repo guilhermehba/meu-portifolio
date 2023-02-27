@@ -1,17 +1,20 @@
 {
   "programming": {
     "HTML": 90,
-    "CSS": 95,
-    "JavaScript": 40,
-    "jQuery": 50,
-    "NodeJS": 35,
-    "VueJS": 45,
-    "PHP": 20
+    "CSS": 90,
+    "JavaScript": 50,
+    "Bootstrap": 90,
+    "Angular14+": 50,
+    "Typescript": 50,
+    "RXJS": 30,
+    "Python": 60,
+    "Django": 60,
+    "Django Rest Framework":40
   },
   "software": {
-    "Photoshop": 94,
-    "Illustrator": 80,
-    "Sublime Text": 89,
-    "Dreamweaver": 55
+    "VSCode": 95,
+    "AWS": 30,
+    "GIT": 70,
+    "FIGMA": 30
   }
 }

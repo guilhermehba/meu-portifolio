@@ -13,19 +13,19 @@ const links = [
     icon: bohrIcon
   },{
     name: 'github',
-    url: '/',
+    url: 'https://github.com/guilhermehba',
     icon: githubIcon
   },{
     name: 'phone',
-    url: '/',
+    url: '(63)99270-6543',
     icon: phoneIcon
   },{
     name: 'email',
-    url: '/',
+    url: 'guilhermemalka6@gmail.com',
     icon: emailIcon
   },{
     name: 'instagram',
-    url: '/',
+    url: 'https://www.instagram.com/gu1lherme_b',
     icon: instagramIcon
   }
 ]

@@ -10,8 +10,8 @@ const Header = () => {
   return (
     <header id="header" className={styles.headerContainer}>
       <Particles canvasClassName={styles.particles} options={particlesOptions} />
-      <Text tag="h1" variant='title'>YOUR NAME</Text>
-      <AnimatedText text="PORTFOLIO" tag="h2" variant="subtitle" />
+      <Text tag="h1" variant='title'>Guilherme Henrique Batista Araújo</Text>
+      <AnimatedText text="PORTIFOLIO" tag="h2" variant="subtitle" />
     </header>
   )
 }

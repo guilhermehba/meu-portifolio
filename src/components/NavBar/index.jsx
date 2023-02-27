@@ -18,7 +18,7 @@ const NavBar = () => {
     width: 0,
   });
 
-  const links = ['about', 'skills', 'projects', 'contact']
+  const links = ['Sobre mim', 'Skills', 'Projetos', 'Contato']
 
   const handleLinkClick = (e) => {
     e.preventDefault()
