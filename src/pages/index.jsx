@@ -23,7 +23,7 @@ const HomePage = () => {
       <NavBar />
       <Header />
 
-      <section className={styles.aboutSection} id='about'>
+      <section className={styles.aboutSection} id='Sobre mim'>
         <header className={styles.aboutHeader}>
           <Text tag='h2' color='secondary' variant='subtitle'>SOBRE</Text>
         </header>
@@ -36,7 +36,7 @@ const HomePage = () => {
         </div>
       </section>
 
-      <section className={styles.skillsSection} id='skills'>
+      <section className={styles.skillsSection} id='Skills'>
         <div className={styles.programmingSkillsHeader}>
           <img src={programmingSkillsIcon} alt="" />
           <Text tag='h2' color='secondary' variant='subtitle'>SKILLS DE PROGRAMAÇÃO</Text>
@@ -50,7 +50,7 @@ const HomePage = () => {
         <SkillsDisplay skills={skills.software} variant='circle' />
       </section>
 
-      <section className={styles.projectsSection} id='projects'>
+      <section className={styles.projectsSection} id='Projetos'>
         <div className={styles.projectsHeader}>
           <img src={projectsIcon} alt="" />
           <Text tag='h2' color='secondary' variant='subtitle'>PROJETOS</Text>
@@ -58,7 +58,7 @@ const HomePage = () => {
         <ProjectsDisplay />
       </section>
 
-      <section className={styles.contactSection} id='contact'>
+      <section className={styles.contactSection} id='Contato'>
         <div className={styles.contactHeader}>
           <Text tag='h2' variant='subtitle'>ENTRE EM CONTATO PARA MAIS INFORMAÇÕES, E OBRIGADO PELA VISITA!</Text>
         </div>
